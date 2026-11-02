@@ -39,7 +39,6 @@ const jins = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Jinsssss333/Jinsssss333/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/Jinsssss333/Jinsssss333/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
