@@ -31,11 +31,12 @@ const jins = {
 
 <div align="center">
 
-<details>
-<summary><b>Toolbox</b> · click to expand</summary>
+<h3>Tech Stack</h3>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js,ts,html,css&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,ts,react,postgres,mysql,docker,linux,git,vscode&perline=13&theme=dark" />
-</details>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,laravel,spring,postgres,mysql,redis,supabase&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,vscode,postman,vercel&theme=dark" />
 
 <br/>
 
